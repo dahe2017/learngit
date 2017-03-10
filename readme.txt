@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple2.
 Creating a new branch is quick AND simple3.
+Git is a free software ...
